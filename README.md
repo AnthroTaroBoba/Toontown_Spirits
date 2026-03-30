@@ -6,7 +6,7 @@
 
 ## ⚠️ Legal Notice
 
-Toontown Spirits is an **unofficial fan project**. We do not own Toontown — that's Disney's. This game is **not monetised**. If you'd like to support development, our [Kofi page](#) is the only way to do so. This notice appears on every launch screen. We're cool, we promise.
+Toontown Spirits is an **unofficial fan project**. We do not own Toontown — that's Disney's. This game is **not monetised**. If you'd like to support development, our (currently private) Kofi page is the only way to do so. This notice appears on every launch screen. We're cool, we promise.
 
 ---
 
