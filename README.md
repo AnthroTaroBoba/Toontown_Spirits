@@ -99,7 +99,7 @@ Original soundtrack in development. Target vibe: classic Toontown big-band carto
 
 ## 💛 Support
 
-This game will always be free. If you want to support development anyway, [buy us a coffee on Kofi](#). Kofi supporters get access to the **Axolotl** species in-game as a thank-you.
+This game will always be free. If you want to support development anyway, buy us a coffee on Kofi. Kofi supporters get access to the **Axolotl** species in-game as a thank-you.
 
 ---
 
